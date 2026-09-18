@@ -1,0 +1,12 @@
+In python we have to start with:- 
+            1. Output
+            2. Variable
+            3. Input
+            4. Commnets
+            5. Type Conversion/ Casting
+            6. String Methods
+            7. keywords
+            8. Arithmetic Operator
+            9. Comparision Operator
+            10. Logical Operator
+            11. Condition Operator (if-else)
